@@ -1,0 +1,20 @@
+/* Center the content and adjust styling */
+.container {
+    max-width: 700px;
+}
+
+.card {
+    position: relative;
+}
+
+.favorite-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: red;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
